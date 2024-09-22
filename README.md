@@ -1,6 +1,6 @@
 # DataLemur SQL questionnare challenge 
 ✨ Learning SQL queries everyday to get better data analyst  
-https://datalemur.com/questions 
+https://datalemur.com/questions </br>
 https://platform.stratascratch.com/coding?code_type=1
 
 ## Overview
